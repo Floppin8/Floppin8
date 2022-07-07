@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chessin8tor
-- 👀 I’m interested in HTML, CSS, and JS
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Java and C++
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on a game
 - 📫 How to reach me: N/A
 
