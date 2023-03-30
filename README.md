@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Floppydisker
-- 👀 I’m interested in Java and C++
+- 👀 I’m interested in Python and C++
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on a game
 - 📫 How to reach me: N/A
