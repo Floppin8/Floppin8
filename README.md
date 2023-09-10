@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Floppydisker
+- 👋 Hi, I’m @Floppin8
 - 👀 I’m interested in Python and C++
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on a game
