@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @floppyfish256
-- 👀 I’m interested in C++
+- 👀 I’m interested in Object Oriented Programming in C++
 - 🌱 I’m currently learning Java and C++
 - 💞️ I’m looking to collaborate on a game
 - 📫 How to reach me: nathanrleong@gmail.com
