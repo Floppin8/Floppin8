@@ -2,7 +2,7 @@
 - 👀 I’m interested in object-oriented programming
 - 🌱 I’m currently learning Java and C++
 - 💞️ I’m looking to collaborate on a game
-- 📫 How to reach me: discord - floppyfish256
+- 📫 Contact me via discord at floppyfish256
 
 <!---
 floppyfish256/floppyfish256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
